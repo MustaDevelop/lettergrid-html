@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1779213943|1538709871';
+const CACHE_VERSION = '1779214278|1872852048';
 /** @type {string} */
 const CACHE_PREFIX = 'Letter Grid-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
